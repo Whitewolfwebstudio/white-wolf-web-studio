@@ -67,16 +67,6 @@ export const TEAM: TeamMember[] = [
     contact: '+923119581678',
     image: 'https://i1.sndcdn.com/avatars-Nitl4kYXYRb4Pc7y-apgxOA-t1080x1080.jpg'
   },
-  {
-    id: 'sayed-hasban',
-    name: 'Sayed Hasban',
-    role: 'Communications Director',
-    specialization: 'Content / Copywriter & Sales Executive',
-    bio: 'The voice of the wolf. Sayed crafts the narratives that convert visitors into partners and drives the agency\'s growth.',
-    skills: ['Strategic Copywriting', 'Sales Operations', 'Content Strategy', 'Client Relations', 'Narrative Engineering'],
-    contact: '+923408685988',
-    image: 'https://static.wikitide.net/deathbattlewiki/7/7f/Portrait.yujiitadori.png'
-  }
 ];
 
 export const SERVICES: Service[] = [
